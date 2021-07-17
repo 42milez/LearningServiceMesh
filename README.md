@@ -1,8 +1,25 @@
-[Mastering Service Mesh](https://www.packtpub.com/product/mastering-service-mesh/9781789615791)
-
 ## References
+- [Microservice Architecture](https://microservices.io/)
+- [Netflix Open Source Software Center](https://netflix.github.io/)
 - Articles
   - [Control and Data Plane](https://networkdirection.net/articles/network-theory/controlanddataplane/)
+  - [What can we learn from Bezos API Mandate?](https://mydatascope.com/blog/en/bezos-api-mandate/)
+- Books
+  - [Mastering Service Mesh](https://www.packtpub.com/product/mastering-service-mesh/9781789615791)
+- Docs
+  - [Docker](https://docs.docker.com/)
+  - [Envoy](https://www.envoyproxy.io/docs/envoy/latest/)
+  - [Istio](https://istio.io/latest/docs/)
+  - [Kubernetes](https://kubernetes.io/docs/home/)
+  - [SPIFFE](https://spiffe.io/docs/latest/spiffe-about/overview/)
+- Publications
+  - [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/10.1145/2741948.2741964)
 - Wikipedia
   - [Control plane](https://en.wikipedia.org/wiki/Control_plane)
+  - [DevOps](https://en.wikipedia.org/wiki/DevOps)
+  - [Dynamic infrastructure](https://en.wikipedia.org/wiki/Dynamic_infrastructure)
   - [Forwarding plane](https://en.wikipedia.org/wiki/Forwarding_plane)
+  - [Microservices](https://en.wikipedia.org/wiki/Microservices)
+  - [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+  - [Service mesh](https://en.wikipedia.org/wiki/Service_mesh)
+  - [Site reliability engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
