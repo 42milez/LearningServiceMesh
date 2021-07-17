@@ -1,8 +1,10 @@
 ## References
-- [Microservice Architecture](https://microservices.io/)
-- [Netflix Open Source Software Center](https://netflix.github.io/)
 - Articles
+  - Martin Fowler
+    - [Microservices Guide](https://martinfowler.com/microservices/)
+    - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
   - [Control and Data Plane](https://networkdirection.net/articles/network-theory/controlanddataplane/)
+  - [Microservice Architecture](https://microservices.io/)
   - [What can we learn from Bezos API Mandate?](https://mydatascope.com/blog/en/bezos-api-mandate/)
 - Books
   - [Mastering Service Mesh](https://www.packtpub.com/product/mastering-service-mesh/9781789615791)
@@ -12,6 +14,8 @@
   - [Istio](https://istio.io/latest/docs/)
   - [Kubernetes](https://kubernetes.io/docs/home/)
   - [SPIFFE](https://spiffe.io/docs/latest/spiffe-about/overview/)
+- OSS
+  - [Netflix Open Source Software Center](https://netflix.github.io/)
 - Publications
   - [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/10.1145/2741948.2741964)
 - Wikipedia
