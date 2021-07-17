@@ -5,19 +5,27 @@
     - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
   - [Control and Data Plane](https://networkdirection.net/articles/network-theory/controlanddataplane/)
   - [Microservice Architecture](https://microservices.io/)
+  - [Netflix Open Source Software Center](https://netflix.github.io/)
   - [What can we learn from Bezos API Mandate?](https://mydatascope.com/blog/en/bezos-api-mandate/)
+  - [What Is The Self-Service Software Model In SaaS?](https://fastspring.com/blog/enterprise-customers-self-service/)
 - Books
   - [Mastering Service Mesh](https://www.packtpub.com/product/mastering-service-mesh/9781789615791)
 - Docs
   - [Docker](https://docs.docker.com/)
   - [Envoy](https://www.envoyproxy.io/docs/envoy/latest/)
+  - [gRPC](https://grpc.io/docs/)
   - [Istio](https://istio.io/latest/docs/)
   - [Kubernetes](https://kubernetes.io/docs/home/)
   - [SPIFFE](https://spiffe.io/docs/latest/spiffe-about/overview/)
-- OSS
-  - [Netflix Open Source Software Center](https://netflix.github.io/)
 - Publications
   - [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/10.1145/2741948.2741964)
+- Repositories
+  - [envoyproxy / envoy](https://github.com/envoyproxy/envoy)
+  - [grpc / grpc](https://github.com/grpc/grpc)
+  - [istio / istio](https://github.com/istio/istio)
+  - [kubernetes / kubernetes](https://github.com/kubernetes/kubernetes)
+  - [moby / moby](https://github.com/moby/moby)
+  - [spiffe / spiffe](https://github.com/spiffe/spiffe)
 - Wikipedia
   - [Control plane](https://en.wikipedia.org/wiki/Control_plane)
   - [DevOps](https://en.wikipedia.org/wiki/DevOps)
